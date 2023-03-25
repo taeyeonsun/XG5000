@@ -12,3 +12,5 @@ https://www.youtube.com/watch?v=CIn1atLcY1k
 ###### interlock
 ###### day13 후입력우선
 ###### day15 양검출, 음검출 자기회로
+###### day16 set, reset
+
