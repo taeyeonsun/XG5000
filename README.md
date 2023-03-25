@@ -8,3 +8,5 @@ https://www.youtube.com/watch?v=CIn1atLcY1k
 ###### Day08
 ###### AND2
 ###### OR
+###### selfhold
+###### interlock
