@@ -14,5 +14,7 @@ https://www.youtube.com/watch?v=CIn1atLcY1k
 ###### day15 양검출, 음검출 자기회로
 ###### day16 set, reset
 ###### timer
+###### timeroff
+###### onoffdelay
 
 
