@@ -16,5 +16,6 @@ https://www.youtube.com/watch?v=CIn1atLcY1k
 ###### timer
 ###### timeroff
 ###### onoffdelay
-
+###### TMR
+###### CTR
 
