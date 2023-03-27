@@ -21,6 +21,8 @@ https://www.youtube.com/watch?v=CIn1atLcY1k
 ###### CTR
 ###### CTUD
 ###### MOV
+###### day27(<>=)
+
 
 
 
